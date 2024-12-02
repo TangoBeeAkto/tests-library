@@ -41,6 +41,9 @@ info:
     - CWE-285
   cve:
     - CVE-2022-48341
+settings:
+  plan: FREE
+  nature: intrusive
 auth:
   authenticated: true
 api_selection_filters:
