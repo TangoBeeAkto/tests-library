@@ -41,6 +41,10 @@ info:
     - CWE-285
   cve:
     - CVE-2022-48341
+settings:
+  plan: ENTERPRISE
+  nature: intrusive
+  duration: slow
 auth:
   authenticated: true
 api_selection_filters:
